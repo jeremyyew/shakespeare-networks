@@ -1,0 +1,13 @@
+name: shakespeare-networks
+title: shakespeare-networks
+username:
+account: jeremyyew
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 870955
+bundleId: 2017514
+url: https://jeremyyew.shinyapps.io/shakespeare-networks/
+when: 1555473888.5607
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|ShakespeareNetworkShinyApp.R|output

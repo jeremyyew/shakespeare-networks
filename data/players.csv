@@ -1,0 +1,176 @@
+,Play,Player,Gender,Married,Married During the Play,Killed,Cause of Death
+1,Hamlet,BERNARDO,M,NA,NA,NA,NA
+2,Hamlet,FRANCISCO,M,NA,NA,NA,NA
+3,Hamlet,HORATIO,M,NA,NA,NA,NA
+4,Hamlet,MARCELLUS,M,NA,NA,NA,NA
+5,Hamlet,KING CLAUDIUS,M,QUEEN GERTRUDE,N,HAMLET,STABBING
+6,Hamlet,VOLTIMAND,M,NA,NA,NA,NA
+7,Hamlet,LAERTES,M,NA,NA,HAMLET,POISON
+8,Hamlet,LORD POLONIUS,M,NA,NA,HAMLET,STABBING
+9,Hamlet,HAMLET,M,NA,NA,LAERTES,POISON
+10,Hamlet,QUEEN GERTRUDE,F,KING CLAUDIUS,N,QUEEN GERTRUDE,POISON
+11,Hamlet,All,NA,NA,NA,NA,NA
+12,Hamlet,OPHELIA,F,NA,NA,OPHELIA,SUICIDE
+13,Hamlet,Ghost,M,NA,NA,"KING CLAUDIUS
+",POISON
+14,Hamlet,REYNALDO,M,NA,NA,NA,NA
+15,Hamlet,ROSENCRANTZ,M,NA,NA,OTHER,EXECUTION
+16,Hamlet,GUILDENSTERN,M,NA,NA,OTHER,EXECUTION
+17,Hamlet,First Player,M,NA,NA,NA,NA
+18,Hamlet,Prologue,M,NA,NA,NA,NA
+19,Hamlet,Player King,M,NA,NA,NA,NA
+20,Hamlet,Player Queen,F,NA,NA,NA,NA
+21,Hamlet,LUCIANUS,M,NA,NA,NA,NA
+22,Hamlet,PRINCE FORTINBRAS,M,NA,NA,NA,NA
+23,Hamlet,Captain,M,NA,NA,NA,NA
+24,Hamlet,Gentleman,M,NA,NA,NA,NA
+25,Hamlet,Danes,NA,NA,NA,NA,NA
+26,Hamlet,Servant,M,NA,NA,NA,NA
+27,Hamlet,First Sailor,M,NA,NA,NA,NA
+28,Hamlet,Messenger,M,NA,NA,NA,NA
+29,Hamlet,First Clown,M,NA,NA,NA,NA
+30,Hamlet,Second Clown,M,NA,NA,NA,NA
+31,Hamlet,First Priest,M,NA,NA,NA,NA
+32,Hamlet,OSRIC,M,NA,NA,NA,NA
+33,Hamlet,Lord,M,NA,NA,NA,NA
+34,Hamlet,First Ambassador,M,NA,NA,NA,NA
+35,Much Ado About Nothing,PUCK,M,NA,NA,NA,NA
+36,Much Ado About Nothing,LEONATO,M,NA,NA,NA,NA
+37,Much Ado About Nothing,Messenger,M,NA,NA,NA,NA
+38,Much Ado About Nothing,BEATRICE,F,BENEDICK,Y,NA,NA
+39,Much Ado About Nothing,HERO,F,CLAUDIO,Y,NA,NA
+40,Much Ado About Nothing,DON PEDRO,M,NA,NA,NA,NA
+41,Much Ado About Nothing,BENEDICK,M,BEATRICE,Y,NA,NA
+42,Much Ado About Nothing,DON JOHN,M,NA,N,NA,NA
+43,Much Ado About Nothing,CLAUDIO,M,HERO,Y,NA,NA
+44,Much Ado About Nothing,ANTONIO,M,NA,NA,NA,NA
+45,Much Ado About Nothing,CONRADE,M,NA,NA,NA,NA
+46,Much Ado About Nothing,BORACHIO,M,NA,NA,NA,NA
+47,Much Ado About Nothing,BALTHASAR,M,NA,NA,NA,NA
+48,Much Ado About Nothing,MARGARET,F,NA,NA,NA,NA
+49,Much Ado About Nothing,URSULA,F,NA,NA,NA,NA
+50,Much Ado About Nothing,Boy,M,NA,NA,NA,NA
+51,Much Ado About Nothing,DOGBERRY,M,NA,NA,NA,NA
+52,Much Ado About Nothing,VERGES,M,NA,NA,NA,NA
+53,Much Ado About Nothing,First Watchman,M,NA,NA,NA,NA
+54,Much Ado About Nothing,Second Watchman,M,NA,NA,NA,NA
+55,Much Ado About Nothing,Watchman,M,NA,NA,NA,NA
+56,Much Ado About Nothing,FRIAR FRANCIS,M,NA,NA,NA,NA
+57,Much Ado About Nothing,Sexton,M,NA,NA,NA,NA
+58,Much Ado About Nothing,Lord,M,NA,NA,NA,NA
+59,Romeo and Juliet,RICHMOND,M,NA,NA,NA,NA
+60,Romeo and Juliet,SAMPSON,M,NA,NA,NA,NA
+61,Romeo and Juliet,GREGORY,M,NA,NA,NA,NA
+62,Romeo and Juliet,ABRAHAM,M,NA,NA,NA,NA
+63,Romeo and Juliet,BENVOLIO,M,NA,NA,NA,NA
+64,Romeo and Juliet,TYBALT,M,NA,NA,ROMEO,STABBING
+65,Romeo and Juliet,First Citizen,NA,NA,NA,NA,NA
+66,Romeo and Juliet,CAPULET,M,LADY CAPULET,N,NA,NA
+67,Romeo and Juliet,LADY CAPULET,F,CAPULET,N,NA,NA
+68,Romeo and Juliet,MONTAGUE,M,LADY MONTAGUE,N,NA,NA
+69,Romeo and Juliet,LADY MONTAGUE,F,MONTAGUE,N,OTHER,HEART ATTACK
+70,Romeo and Juliet,PRINCE,M,NA,NA,NA,NA
+71,Romeo and Juliet,ROMEO,M,JULIET,Y,ROMEO,SUICIDE
+72,Romeo and Juliet,PARIS,M,NA,NA,ROMEO,STABBING
+73,Romeo and Juliet,Servant,NA,NA,NA,NA,NA
+74,Romeo and Juliet,Nurse,F,NA,NA,NA,NA
+75,Romeo and Juliet,JULIET,F,ROMEO,Y,JULIET,SUICIDE
+76,Romeo and Juliet,MERCUTIO,M,NA,NA,TYBALT,STABBING
+77,Romeo and Juliet,First Servant,NA,NA,NA,NA,NA
+78,Romeo and Juliet,Second Servant,NA,NA,NA,NA,NA
+79,Romeo and Juliet,Second Capulet,NA,NA,NA,NA,NA
+80,Romeo and Juliet,Chorus,NA,NA,NA,NA,NA
+81,Romeo and Juliet,FRIAR LAURENCE,M,NA,NA,NA,NA
+82,Romeo and Juliet,PETER,M,NA,NA,NA,NA
+83,Romeo and Juliet,NURSE,F,NA,NA,NA,NA
+84,Romeo and Juliet,First Musician,M,NA,NA,NA,NA
+85,Romeo and Juliet,Second Musician,M,NA,NA,NA,NA
+86,Romeo and Juliet,Musician,M,NA,NA,NA,NA
+87,Romeo and Juliet,Third Musician,M,NA,NA,NA,NA
+88,Romeo and Juliet,BALTHASAR,M,NA,NA,NA,NA
+89,Romeo and Juliet,Apothecary,M,NA,NA,NA,NA
+90,Romeo and Juliet,FRIAR JOHN,M,NA,NA,NA,NA
+91,Romeo and Juliet,PAGE,M,NA,NA,NA,NA
+92,Romeo and Juliet,First Watchman,M,NA,NA,NA,NA
+93,Romeo and Juliet,Second Watchman,M,NA,NA,NA,NA
+94,Romeo and Juliet,Third Watchman,M,NA,NA,NA,NA
+95,The Tempest,Master,M,NA,NA,NA,NA
+96,The Tempest,Boatswain,M,NA,NA,NA,NA
+97,The Tempest,ALONSO,M,NA,NA,NA,NA
+98,The Tempest,ANTONIO,M,NA,NA,NA,NA
+99,The Tempest,GONZALO,M,NA,NA,NA,NA
+100,The Tempest,SEBASTIAN,M,NA,NA,NA,NA
+101,The Tempest,Mariners,NA,NA,NA,NA,NA
+102,The Tempest,MIRANDA,F,FERDINAND,Y,NA,NA
+103,The Tempest,PROSPERO,M,NA,NA,NA,NA
+104,The Tempest,ARIEL,NA,NA,NA,NA,NA
+105,The Tempest,CALIBAN,M,NA,NA,NA,NA
+106,The Tempest,FERDINAND,M,MIRANDA,Y,NA,NA
+107,The Tempest,ADRIAN,M,NA,NA,NA,NA
+108,The Tempest,FRANCISCO,M,NA,NA,NA,NA
+109,The Tempest,TRINCULO,M,NA,NA,NA,NA
+110,The Tempest,STEPHANO,M,NA,NA,NA,NA
+111,The Tempest,IRIS,F,NA,NA,NA,NA
+112,The Tempest,CERES,F,NA,NA,NA,NA
+113,The Tempest,JUNO,F,NA,NA,NA,NA
+114,Macbeth,First Witch,F,NA,NA,NA,NA
+115,Macbeth,Second Witch,F,NA,NA,NA,NA
+116,Macbeth,Third Witch,F,NA,NA,NA,NA
+117,Macbeth,DUNCAN,M,NA,NA,MACBETHNA,STABBING
+118,Macbeth,MALCOLM,M,NA,NA,NA,NA
+119,Macbeth,Sergeant,M,NA,NA,NA,NA
+120,Macbeth,LENNOX,M,NA,NA,NA,NA
+121,Macbeth,ROSS,M,NA,NA,NA,NA
+122,Macbeth,MACBETH,M,LADY MACBETH,N,MACDUFF,BEHEADING
+123,Macbeth,BANQUO,M,NA,NA,MACBETH,STABBING
+124,Macbeth,ANGUS,M,NA,NA,NA,NA
+125,Macbeth,LADY MACBETH,F,MACBETH,N,LADY MACBETH,EXHAUSTION
+126,Macbeth,Messenger,M,NA,NA,NA,NA
+127,Macbeth,FLEANCE,M,NA,NA,NA,NA
+128,Macbeth,Porter,M,NA,NA,NA,NA
+129,Macbeth,MACDUFF,M,LADY MACDUFF,N,NA,NA
+130,Macbeth,DONALBAIN,M,NA,NA,NA,NA
+131,Macbeth,Old Man,M,NA,NA,NA,NA
+132,Macbeth,ATTENDANT,M,NA,NA,NA,NA
+133,Macbeth,First Murderer,M,NA,NA,NA,NA
+134,Macbeth,Second Murderer,M,NA,NA,NA,NA
+135,Macbeth,Servant,M,NA,NA,NA,NA
+136,Macbeth,Third Murderer,M,NA,NA,NA,NA
+137,Macbeth,Lords,M,NA,NA,NA,NA
+138,Macbeth,HECATE,F,NA,NA,NA,NA
+139,Macbeth,Lord,M,NA,NA,NA,NA
+140,Macbeth,First Apparition,M,NA,NA,NA,NA
+141,Macbeth,Second Apparition,M,NA,NA,NA,NA
+142,Macbeth,Third Apparition,M,NA,NA,NA,NA
+143,Macbeth,LADY MACDUFF,F,MACDUFF,N,MACBETH,STABBING
+144,Macbeth,Son,M,NA,NA,MACBETH,STABBING
+145,Macbeth,Doctor,M,NA,NA,NA,NA
+146,Macbeth,Gentlewoman,F,NA,NA,NA,NA
+147,Macbeth,MENTEITH,M,NA,NA,NA,NA
+148,Macbeth,CAITHNESS,M,NA,NA,NA,NA
+149,Macbeth,SEYTON,M,NA,NA,NA,NA
+150,Macbeth,SIWARD,M,NA,NA,NA,NA
+151,Macbeth,Soldiers,M,NA,NA,MACBETH,STABBING
+152,Macbeth,YOUNG SIWARD,M,NA,NA,MACBETH,STABBING
+153,Merchant of Venice,ANTONIO,M,NA,NA,NA,NA
+154,Merchant of Venice,SALARINO,M,NA,NA,NA,NA
+155,Merchant of Venice,SALANIO,M,NA,NA,NA,NA
+156,Merchant of Venice,BASSANIO,M,PORTIA,Y,NA,NA
+157,Merchant of Venice,LORENZO,M,JESSICA,Y,NA,NA
+158,Merchant of Venice,GRATIANO,M,NERISSA,Y,NA,NA
+159,Merchant of Venice,PORTIA,F,BASSANIO,Y,NA,NA
+160,Merchant of Venice,NERISSA,F,GRATIANO,Y,NA,NA
+161,Merchant of Venice,Servant,M,NA,NA,NA,NA
+162,Merchant of Venice,SHYLOCK,M,NA,NA,NA,NA
+163,Merchant of Venice,MOROCCO,M,NA,NA,NA,NA
+164,Merchant of Venice,LAUNCELOT,M,NA,NA,NA,NA
+165,Merchant of Venice,GOBBO,M,NA,NA,NA,NA
+166,Merchant of Venice,LEONARDO,M,NA,NA,NA,NA
+167,Merchant of Venice,JESSICA,F,LORENZO,NA,NA,NA
+168,Merchant of Venice,ARRAGON,M,NA,NA,NA,NA
+169,Merchant of Venice,TUBAL,M,NA,NA,NA,NA
+170,Merchant of Venice,SALERIO,M,NA,NA,NA,NA
+171,Merchant of Venice,BALTHASAR,M,NA,NA,NA,NA
+172,Merchant of Venice,DUKE,M,NA,NA,NA,NA
+173,Merchant of Venice,Clerk,M,NA,NA,NA,NA
+174,Merchant of Venice,STEPHANO,M,NA,NA,NA,NA
