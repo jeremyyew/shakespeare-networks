@@ -113,7 +113,6 @@ process_play <- function(play, color){
   
   # Get unique players list. Construct from edges so we already leave out those with zero interactions. 
   players <- unique(c(edges$from, edges$to))
-  View(players)
   
   # Create nodes df
   nodes <- data.frame(id=players, label=players)
@@ -250,3 +249,16 @@ boxStyleShiny <- "
     border: 1px solid #e3e3e3;
     border-radius: 4px;"
 
+
+  # p("Potential data to calculate:"),
+  # p("Total number of edges from female to female characters"),
+  # p("Total number of edges from male to male characters"),
+  # p("Average number of edges for male characters:"),
+  # p("Average number of edges for female characters:"),
+  # p("Average sum of edge weights for male characters:"),
+  # p("Average sum of edge weights for female characters:"),
+  # p("Average edge weight for male-female interactions:"),
+  # p("Average edge weight for male-male interactions:"),
+  # p("Average edge weight for female-female interactions:"),
+  # p("Average number of edges from female to female characters"),
+  # p("Average number of edges from female to male characters")
