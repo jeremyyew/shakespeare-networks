@@ -166,7 +166,6 @@ process_play <- function(play, color){
   edges$value_by_interaction <- edges$value
   edges$value_by_marriage <- edges$value
   
-  View(edges)
   NUM_PLAYERS <- nrow(nodes)
   NUM_EDGES <- nrow(edges)
   AVERAGE_NUM_EDGES <- mean(degrees)
