@@ -60,9 +60,13 @@ add_attributes <- function(nodes, edges, player_atts){
   for (i in seq(nrow(player_atts))){
     x <- player_atts[i,]$Player
     y <- player_atts[i,]$Married
-    if (!is.na(y) && !(y %in% added)) {
-      edges <- rbind(edges, data.frame(from=c(x), to=c(y), value=c(1), type="Marriage", stringsAsFactors = FALSE))
-      added <- append(added, x)
+
+    if (is.na(y)) {
+      next
+    }
+    xy <- edges[edges$from==x & edges$to==y,]
+    if (nrow(xy) == 1) {
+      edges[edges$from==x & edges$to==y, "type"] <- "Marriage"
       nodes[nodes$id==x | nodes$id==y, "married"] <- "Marriage"
     }
   }
@@ -161,10 +165,8 @@ process_play <- function(play, color){
   # Set edge value by type of interaction
   edges$value_by_interaction <- edges$value
   edges$value_by_marriage <- edges$value
-  isMarried <- edges$type == "Marriage"
-  edges$value_by_marriage[isMarried] <- 10
   
-  
+  View(edges)
   NUM_PLAYERS <- nrow(nodes)
   NUM_EDGES <- nrow(edges)
   AVERAGE_NUM_EDGES <- mean(degrees)
